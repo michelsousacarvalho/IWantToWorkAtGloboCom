@@ -1,15 +1,41 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Webmedia,
+Plataforma de Interatividades
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
+Michel de Sousa Carvalho
+Brasileiro, Solteiro, 22 anos, 11/02/1992  Campinas – Barão Geraldo – São Paulo 
+Telefone: (019)3546-6411Cel: (019)98108-2330 E-mail: michelsousacarvalho@gmail.com 
 
-[Preencha aqui o seu cv]
+FORMAÇÃO
+• Estudante selecionado pelo programa BEPiD (Brazilian Education Program for iOS Development). Este programa forma desenvolvedores especialistas na plataforma iOS e empreendedores aptos a distribuir seus aplicativos na App Store. O BEPiD é oferecido pelo Instituto de Pesquisas Eldorado em parceria com a Apple. De setembro de 2013 a dezembro de 2014.
+• Faculdade Anhanguera de Rio Claro - Graduação Bacharel em Ciência da Computação. De janeiro de 2010 a dezembro de 2013
+EXPERIÊNCIA PROFISSIONAL
+•Luxfacta - Rio Claro-SP: •
+• Desenvolvedor Júnior - setembro de 2012 a junho de 2013: Membro da equipe de desenvolvimento Java EE focada em Internet Banking.
+• Estagiário - abril de 2012 a agosto de 2012: Membro da equipe de desenvolvimento Java EE focada em Internet Banking.
+
+CONHECIMENTO TÉCNICO
+• Linguagens: C, Java, JavaScript e Objective-C
+• Tecnologias Mobile: iOS(nativo) e Android(nativo)
+• API's e Ferramentas: EJB, Hibernate, JPA, JAX-RS, Maven, Nexus, Spring, Spring Data,
+Spring MVC, Spring Security e Struts.
+• Banco de dados: MongoDB, MySQL, Oracle e Postgresql
+• Servidores: Apache Tom Cat, GlassFish, Jetty, JBoss e WebSphere.
+• Sistemas Operacionais: Linux, Mac OS X e Windows • Software: Eclipse, Git, Netbeans e Xcode.
+• Tecnologias Web: CSS e Jquery.
+• Experiência em metodologia Scrum
+• Conhecimento em design patterns. IDIOMAS
+• Inglês oral (básico) e escrito (intermediário).
+INFORMAÇÕES ADICIONAIS
+• Linkedin- https://www.linkedin.com/pub/michel-de-sousa-carvalho/92/813/b40
+• Github - https://github.com/michelsousacarvalho
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
