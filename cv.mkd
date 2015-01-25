@@ -4,12 +4,11 @@ Vaga
 Área de Webmedia,
 Plataforma de Interatividades
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
-Michel de Sousa Carvalho
-Brasileiro, Solteiro, 22 anos, 11/02/1992  Campinas – Barão Geraldo – São Paulo 
-Telefone: (019)3546-6411Cel: (019)98108-2330 E-mail: michelsousacarvalho@gmail.com 
+* Michel de Sousa Carvalho
+* Brasileiro, Solteiro, 22 anos, 11/02/1992  Campinas – Barão Geraldo – São Paulo 
+* Telefone: (019)3546-6411 Cel: (019)98108-2330 
+* E-mail: michelsousacarvalho@gmail.com 
 
 __FORMAÇÃO:__
 * Estudante selecionado pelo programa BEPiD (Brazilian Education Program for iOS Development). Este programa forma desenvolvedores especialistas na plataforma iOS e empreendedores aptos a distribuir seus aplicativos na App Store. O BEPiD é oferecido pelo Instituto de Pesquisas Eldorado em parceria com a Apple. De setembro de 2013 a dezembro de 2014.
@@ -39,9 +38,3 @@ __INFORMAÇÕES ADICIONAIS:__
 * [Linkedin] (https://www.linkedin.com/pub/michel-de-sousa-carvalho/92/813/b40)
 * [Github]  (https://github.com/michelsousacarvalho)
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
