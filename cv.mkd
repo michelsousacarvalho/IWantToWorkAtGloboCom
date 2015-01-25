@@ -21,21 +21,22 @@ EXPERIÊNCIA PROFISSIONAL
 • Desenvolvedor Júnior - setembro de 2012 a junho de 2013: Membro da equipe de desenvolvimento Java EE focada em Internet Banking.
 • Estagiário - abril de 2012 a agosto de 2012: Membro da equipe de desenvolvimento Java EE focada em Internet Banking.
 
-CONHECIMENTO TÉCNICO
-• Linguagens: C, Java, JavaScript e Objective-C
-• Tecnologias Mobile: iOS(nativo) e Android(nativo)
-• API's e Ferramentas: EJB, Hibernate, JPA, JAX-RS, Maven, Nexus, Spring, Spring Data,
+__CONHECIMENTO TÉCNICO:__
+* Linguagens: C, Java, JavaScript e Objective-C
+* Tecnologias Mobile: iOS(nativo) e Android(nativo)
+* API's e Ferramentas: EJB, Hibernate, JPA, JAX-RS, Maven, Nexus, Spring, Spring Data,
 Spring MVC, Spring Security e Struts.
-• Banco de dados: MongoDB, MySQL, Oracle e Postgresql
-• Servidores: Apache Tom Cat, GlassFish, Jetty, JBoss e WebSphere.
-• Sistemas Operacionais: Linux, Mac OS X e Windows • Software: Eclipse, Git, Netbeans e Xcode.
-• Tecnologias Web: CSS e Jquery.
-• Experiência em metodologia Scrum
-• Conhecimento em design patterns. IDIOMAS
-• Inglês oral (básico) e escrito (intermediário).
-INFORMAÇÕES ADICIONAIS
-• Linkedin- https://www.linkedin.com/pub/michel-de-sousa-carvalho/92/813/b40
-• Github - https://github.com/michelsousacarvalho
+* Banco de dados: MongoDB, MySQL, Oracle e Postgresql
+* Servidores: Apache Tom Cat, GlassFish, Jetty, JBoss e WebSphere.
+* Sistemas Operacionais: Linux, Mac OS X e Windows • Software: Eclipse, Git, Netbeans e Xcode.
+* Tecnologias Web: CSS e Jquery.
+* Experiência em metodologia Scrum
+* Conhecimento em design patterns. 
+__IDIOMAS:__
+* Inglês oral (básico) e escrito (intermediário).
+__INFORMAÇÕES ADICIONAIS:__
+* [Linkedin] (https://www.linkedin.com/pub/michel-de-sousa-carvalho/92/813/b40)
+* [Github]  (https://github.com/michelsousacarvalho)
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
